@@ -1,2 +1,2 @@
-# certbox-auto
-Auto installing certbox
+# certbot-auto
+Auto installing certbot
